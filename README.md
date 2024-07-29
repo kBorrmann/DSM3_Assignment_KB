@@ -11,4 +11,5 @@ In the following hint is a spelling mistake: "'.apply(convert_to_month)'" it sho
 In "use the Test Number from md['Test number'] as new column names for the expr data" md['Test umber'] should already have been renamed to md['TestID'].
 
 ## Task 3
-The app can be found in the folder Thermal Proteome Profiling Data. I also attached two images of how the app would look.
+The app can be found in the folder Thermal_Proteome_Profiling. I also attached two images of how the app would look in that folder.
+report.pg_matrix.tsv and report.pr_matrix.tsv are the data files used for developing this quality control app.
