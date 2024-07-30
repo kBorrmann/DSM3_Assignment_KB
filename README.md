@@ -12,4 +12,7 @@ In "use the Test Number from md['Test number'] as new column names for the expr 
 
 ## Task 3
 The app can be found in the folder Thermal_Proteome_Profiling. I also attached two images of how the app would look in that folder.
-report.pg_matrix.tsv and report.pr_matrix.tsv are the data files used for developing this quality control app.
+report.pg_matrix.tsv and report.pr_matrix.tsv are the data files used for developing this quality control app. In that folder there are also two images from the app how it looked at my computer.
+
+## Task 4
+Please find the processed figure in Assignments --> Inkscape.
